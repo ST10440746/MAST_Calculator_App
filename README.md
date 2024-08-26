@@ -1,6 +1,4 @@
- ## Code for the app
-
- ```import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, StyleSheet, Alert } from 'react-native';
 
 export default function CalculatorApp() {
@@ -137,4 +135,3 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
 });
-```
